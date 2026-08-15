@@ -1,5 +1,5 @@
 streamlit==1.61.1
-spacy==3.8.15
+spacy==3.8.13
 pandas==3.0.5
 pytest==9.1.1
 
