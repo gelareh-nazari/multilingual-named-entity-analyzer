@@ -20,6 +20,10 @@ The application identifies named entities such as people, organizations, locatio
 - Interactive Streamlit interface
 - Automated tests with pytest
 
+## Application Preview
+
+![Multilingual Named Entity Analyzer](assets/app-screenshot.jpeg)
+
 ## Technologies
 
 - Python
