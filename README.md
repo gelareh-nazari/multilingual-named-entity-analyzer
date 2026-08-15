@@ -2,6 +2,10 @@
 
 A multilingual NLP application for detecting, highlighting, and analyzing named entities in English and German texts.
 
+## Live Demo
+
+[Try the application on Streamlit](https://multilingual-named-entity-analyzer-5eskm3z57p4nhlizwb5zz3.streamlit.app/)
+
 ## Overview
 
 The Multilingual Named Entity Analyzer is a Natural Language Processing (NLP) application built with Python, spaCy, and Streamlit.
@@ -111,7 +115,6 @@ Possible future extensions include:
 - Improved entity visualization
 - Entity filtering and search
 - Additional NLP statistics
-- Deployment as a public web application
 
 ## License
 
