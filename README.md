@@ -22,7 +22,7 @@ The application identifies named entities such as people, organizations, locatio
 
 ## Application Preview
 
-![Multilingual Named Entity Analyzer](assets/app-screenshot.jpeg)
+![Multilingual Named Entity Analyzer](assets/app-screenshot.png)
 
 ## Technologies
 
